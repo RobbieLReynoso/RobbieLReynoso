@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @RobbieLReynoso
 - Languages - Python, C++, SQL
+- Libraries: pandas
+- CAD: SolidWorks
 - Hobbies - Hiking, Weightlifting, Sim Racing (PC Gaming), CAD & General tinkering(cars, woodworking, etc)
 - Studies - Aerospace Engineering at University of Colorado Boulder
 
